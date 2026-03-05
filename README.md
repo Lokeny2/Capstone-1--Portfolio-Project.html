@@ -1,6 +1,7 @@
 
-    Personal Portfolio - MOSES EKUTAN
-https://link-to-website'sscreenshot.png
+    P<img width="943" height="587" alt="Portfolio screenshot" src="https://github.com/user-attachments/assets/d4cf120e-6ed4-403f-b8bb-6165720261ce" />
+Personal Portfolio - MOSES EKUTAN
+
 This is the repository for my personal portfolio website. It was built to showcase my journey, 
 my projects, and the technologies I'm learning.
 
@@ -37,4 +38,5 @@ GitHub: @Lokeny2
 LinkedIn: Moses Ekutan
 
 Email: lokenymoses2@gmail.com
+
 
