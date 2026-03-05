@@ -34,6 +34,7 @@ Feel free to connect with me!
 
 GitHub: @Lokeny2
 
-LinkedIn: [Your LinkedIn Profile URL](Insert Link Here)
+LinkedIn: Moses Ekutan
 
-Email: your.email@example.com
+Email: lokenymoses2@gmail.com
+
